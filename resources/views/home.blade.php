@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
+{{-- <div class="container">
     <div id="layoutSidenav_nav">
                 <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
                     <div class="sb-sidenav-menu">
@@ -88,5 +88,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 @endsection
